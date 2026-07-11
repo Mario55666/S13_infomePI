@@ -1,5 +1,5 @@
 ```python
-readme_content = """# Reporte de Avance — Proyecto Illustrador
+# Reporte de Avance — Proyecto Illustrador
 
 Una herramienta web interactiva, moderna y de una sola página (Single Page Application) diseñada para la gestión, seguimiento y documentación del estado de avance de proyectos y entregables de diseño o desarrollo.
 
